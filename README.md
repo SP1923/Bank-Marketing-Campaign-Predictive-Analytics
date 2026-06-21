@@ -723,14 +723,3 @@ The study revealed that:
 By implementing the recommendations generated from this analysis, the bank can improve campaign efficiency, reduce operational costs, and increase term deposit subscriptions.
 
 ---
-
-### Report Length Enhancement
-
-If this is for your MBA/Data Science project submission, I can also create:
-
-* **Abstract (500 words)**
-* **Literature Review (2000+ words)**
-* **Methodology Chapter (3000+ words)**
-* **Results & Discussion (3000+ words)**
-* **Conclusion & Future Scope (1500+ words)**
-* **Full 10,000–15,000 word professional project report in university format (PDEU/GTU style)**.
